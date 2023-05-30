@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MaartenSchilt.Brainfuck.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "Programs/hello-world-min.bf"
+    }
+  }
+}
